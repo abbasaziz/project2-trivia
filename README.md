@@ -50,6 +50,6 @@ By making notes ahead of time, you will practice the core skill of being able to
 
 ## Author
 
-This project was created by Abbas Aziz as part of the courses in the Udemy Fullstack Web Development Course, as a requirement to be awarded a certificate of completion in this course. Thankful for all the instructors, reviewers and session leads at Udemy.
+This project was created by Abbas Aziz as part of the courses in the Udemy Fullstack Web Development Course. It was completed as a requirement to be awarded a certificate of completion in this course. Thankful for all the instructors, reviewers and session leads at Udemy.
 
 Abbas Aziz [abbasaziz](https://github.com/abbasaziz)
