@@ -18,7 +18,7 @@ Completing this trivia app will give you the ability to structure plan, implemen
 
 [Fork](https://help.github.com/en/articles/fork-a-repo) the project repository and [clone](https://help.github.com/en/articles/cloning-a-repository) your forked repository to your machine. Work on the project locally and make sure to push all your changes to the remote repository before submitting the link to your repository in the Classroom.
 
-## About the Stack
+## About this Stack
 
 We started the full stack application for you. It is designed with some key functional areas:
 
